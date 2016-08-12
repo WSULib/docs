@@ -1,0 +1,9 @@
+[submodule "docs_digital_collections"]
+	path = docs_digital_collections
+	url = https://github.com/WSULib/docs_digital_collections.git
+[submodule "docs_library_website"]
+	path = docs_library_website
+	url = https://github.com/WSULib/docs_library_website.git
+[submodule "docs_quicksearch"]
+	path = docs_quicksearch
+	url = https://github.com/WSULib/docs_quicksearch.git
